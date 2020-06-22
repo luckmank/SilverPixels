@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SilverPixels</string>
+    <string name="_0">0</string>
+    <string name="printingjob">PrintingJob</string>
+    <string name="todo">TODO</string>
+    <string name="exposure">Exposure</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="print">Print</string>
+</resources>
